@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <extension point="com.change_vision.astah.ui.view">
+        <view
+          id="jp.co.infitech.astah.ToDoView"
+          type="extraTab"
+          class="jp.co.infitech.astah.ToDoView" />
+    </extension>
+</plugin>
